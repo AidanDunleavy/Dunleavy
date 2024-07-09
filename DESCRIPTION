@@ -1,0 +1,10 @@
+Package: Dunleavy
+Type: Package
+Title: Aidan Dunleavy's personal R package for functions they think are useful.
+Version: 0.1.0
+Author: Aidan Dunleavy
+Maintainer: NA <dunle042@umn.edu>
+Description: Current functions: NA
+License: MIT
+Encoding: UTF-8
+LazyData: true
