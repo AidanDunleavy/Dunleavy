@@ -14,7 +14,9 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 
-
+#' Hello
+#' @noRd
+#' @noMd
 hello <- function() {
   print("Hello, world!")
 }
